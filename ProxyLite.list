@@ -2,6 +2,10 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,老百姓机场.com
+DOMAIN-SUFFIX,ktmcloud.top
+DOMAIN-SUFFIX,良心机场.com
+DOMAIN-SUFFIX,fsm.name
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
